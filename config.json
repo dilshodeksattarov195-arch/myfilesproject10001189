@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerstringify",
+        "uuid": 1306711,
+        "checksum": "bow7gs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
